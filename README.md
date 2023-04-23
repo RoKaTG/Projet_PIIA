@@ -10,7 +10,7 @@ Un serveur de base de données MySQL (ou autre)
 ## Installation et exécution
 - Clonez le dépôt sur votre machine locale en utilisant la commande suivante :
 ```bash
-git clone https://github.com/username/agenda-etudiant-horticulture.git
+git clone https://github.com/RoKaTG/Projet_PIIA.git
 ```
 - Importez le projet dans Eclipse en tant que projet Maven.
 - Configurez la base de données dans le fichier de configuration `application.properties` en renseignant les informations de connexion.
